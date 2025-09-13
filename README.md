@@ -15,7 +15,7 @@ This repository documents my learning journey into **GitHub Actions**, covering 
 
 ## 📖 Blogs
 I’m writing detailed blogs on Hashnode to explain each topic step by step:  
-👉 [Read the series here](https://your-hashnode-link.com)  
+👉 [Read the series here](https://abdulraheem.hashnode.dev/series/mastering-github-actions)  
 
 ## 🎯 Goal
 - Learn GitHub Actions hands-on  
