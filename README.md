@@ -35,7 +35,7 @@ README.md
 
 | Day | Topic                                         | Workflow                                                         | Blog      |
 | --- | --------------------------------------------- | ---------------------------------------------------------------- | --------- |
-| 01  | What is GitHub Actions? (Intro + Hello World) | [day01-hello-world.yml](.github/workflows/day01-hello-world.yml) | [Blog](#) |
+| 01  | What is GitHub Actions? (Intro + Hello World) | [day01-hello-world.yml](.github/workflows/day01-hello-world.yml) | [Blog](https://abdulraheem.hashnode.dev/day01-introduction-to-github-actions) |
 | 02  | Understanding Events & Triggers               | [day02-triggers.yml](.github/workflows/day02-triggers.yml)       | [Blog](#) |
 | 03  | Jobs & Steps                                  | [day03-jobs-steps.yml](.github/workflows/day03-jobs-steps.yml)   | [Blog](#) |
 | 04  | Using Runners                                 | …                                                                | [Blog](#) |
