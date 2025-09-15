@@ -5,6 +5,8 @@ Over the next few weeks, I’ll be learning **CI/CD with GitHub Actions** step b
 
 This repo is structured **day by day** — each day introduces a new concept, along with a working workflow you can try out yourself.
 
+<img width="1920" height="1080" alt="Your paragraph text" src="https://github.com/user-attachments/assets/24e011e0-2308-4d06-9273-820b365eb5d8" />
+
 ---
 
 ## 📂 Repo Structure
@@ -55,10 +57,10 @@ README.md
 
 ## 📖 Follow Along
 
-* 📚 Blog Series → [GitHub Actions Journey](#)
+* 📚 Blog Series → [GitHub Actions Journey](https://abdulraheem.hashnode.dev/series/mastering-github-actions)
 * 🐙 Repo Updates → You’re already here 🙂
-* 🧑‍💻 My Terraform Journey → [Terraform Journey](#)
-* 🐦 Daily updates on X → [@Abdulraheem183](#)
+* 🧑‍💻 My Terraform Journey → [Terraform Journey](https://abdulraheem.hashnode.dev/series/terraform-with-aws)
+* 🐦 Daily updates on X → [@Abdulraheem183](https://x.com/Abdulraheem183)
 
 ---
 
@@ -69,4 +71,3 @@ If you find this helpful:
 * Give the repo a **star ⭐**
 * Share it with your network 💙
 
-ing this, and what readers will gain), or keep it minimal and straight to navigation?
