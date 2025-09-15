@@ -1,0 +1,12 @@
+name: Day 01 - Hello World
+
+on:
+  workflow_dispatch:   # allows you to run it manually from the Actions tab
+
+jobs:
+  hello-world-job:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Print a greeting
+        run: echo "👋 Hello, GitHub Actions! This is Day 01 of my learning journey."
