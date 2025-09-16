@@ -8,11 +8,14 @@ jobs:
     steps:
       - name: Get code
         uses: actions/checkout@v3
+
       - name: Install dependencies
         run: npm install
-        working-directory: .\docs\day02\day02-node-app
-      - name: lint code
+        working-directory: ./docs/day02/day02-node-app
+
+      - name: Lint code
         run: npm run lint
+        working-directory: ./docs/day02/day02-node-app
 
   test:
     needs: lint
@@ -20,10 +23,14 @@ jobs:
     steps:
       - name: Get code
         uses: actions/checkout@v3
+
       - name: Install dependencies
         run: npm install
+        working-directory: ./docs/day02/day02-node-app
+
       - name: Test code
         run: npm test
+        working-directory: ./docs/day02/day02-node-app
 
   build:
     needs: [lint, test]
@@ -31,10 +38,14 @@ jobs:
     steps:
       - name: Get code
         uses: actions/checkout@v3
+
       - name: Install dependencies
         run: npm install
+        working-directory: ./docs/day02/day02-node-app
+
       - name: Build code
         run: npm run build
+        working-directory: ./docs/day02/day02-node-app
 
   deploy:
     needs: [lint, test, build]
@@ -42,7 +53,11 @@ jobs:
     steps:
       - name: Get code
         uses: actions/checkout@v3
+
       - name: Install dependencies
         run: npm install
+        working-directory: ./docs/day02/day02-node-app
+
       - name: Deploy code
         run: echo "Deploying......."
+        working-directory: ./docs/day02/day02-node-app
