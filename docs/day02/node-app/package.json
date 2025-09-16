@@ -1,0 +1,12 @@
+{
+  "name": "day02-node-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "lint": "echo \"Linting code...\" && exit 0",
+    "test": "node test.js",
+    "build": "echo \"Building project...\" && exit 0"
+  },
+  "dependencies": {}
+}
