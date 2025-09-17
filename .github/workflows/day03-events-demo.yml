@@ -1,0 +1,19 @@
+name: Events Demo
+
+on:
+  push:
+    branches:
+      - main
+      - feature/*
+  pull_request:
+    types: [opened, edited, closed]
+  issues:
+    types: [opened, closed]
+
+jobs:
+  demo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Show event info
+        run: |
+          echo "Triggered by: ${{ github.event_name }} on branch ${{ github.ref }}"
