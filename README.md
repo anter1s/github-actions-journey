@@ -37,7 +37,7 @@ README.md
 | --- | --------------------------------------------- | ---------------------------------------------------------------- | --------- |
 | 01  | What is GitHub Actions? (Intro + Hello World) | [day01-hello-world.yml](.github/workflows/day01-hello-world.yml) | [Blog](https://abdulraheem.hashnode.dev/day01-introduction-to-github-actions) |
 | 02  | Your first CI/CD Pipeline                     | [day02-node-pipeline.yml](.github/worflows/day02-pipeline.yml)   | [Blog](https://abdulraheem.hashnode.dev/day-02-building-a-cicd-pipeline-with-github-actions) |
-| 03  | Jobs & Steps                                  | [day03-jobs-steps.yml](.github/workflows/day03-jobs-steps.yml)   | [Blog](#) |
+| 03  | Events and Triggers                           | [day03-events-demo.yml](.github/workflows/day03-jobs-steps.yml)  | [Blog](https://abdulraheem.hashnode.dev/github-actions-events-triggers) |
 | 04  | Using Runners                                 | …                                                                | [Blog](#) |
 | ... | …                                             | …                                                                | …         |
 
