@@ -14,10 +14,13 @@ jobs:
         uses: actions/checkout@v3
       - name: Install dependencies
         run: npm install
+        working-directory: ./docs/day02/day04-node-app
       - name: Lint Code
         run: npm run lint
+        working-directory: ./docs/day02/day04-node-app
       - name: Test Code
         run: npm run test
+        working-directory: ./docs/day02/day04-node-app
 
   Build:
     needs: Test
@@ -27,8 +30,10 @@ jobs:
         uses: actions/checkout@v3
       - name: Install dependencies
         run: npm install
+        working-directory: ./docs/day02/day04-node-app
       - name: Build Code
         run: npm run build
+        working-directory: ./docs/day02/day04-node-app
       - name: Upload Artifacts
         uses: actions/upload-artifact@v4
         with:
