@@ -1,0 +1,49 @@
+name: Deploy APP
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  Test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get Code
+        uses: actions/checkout@v3
+      - name: Install dependencies
+        run: npm ci
+      - name: Lint Code
+        run: npm run lint
+      - name: Test Code
+        run: npm run test
+
+  Build:
+    needs: Test
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get Code
+        uses: actions/checkout@v3
+      - name: Install dependencies
+        run: npm ci
+      - name: Build Code
+        run: npm run build
+      - name: Upload Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: dist-files
+          path: dist
+
+  Deploy:
+    needs: [Test, Build]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download Artifacts
+        uses: actions/download-artifact@v5
+        with:
+          name: dist-files
+      - name: Output Results
+        run: ls    
+      - name: Deploy website
+        run: echo "Deploying......"
