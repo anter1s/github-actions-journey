@@ -39,7 +39,7 @@ README.md
 | 02  | Your first CI/CD Pipeline                     | [day02-node-pipeline.yml](.github/worflows/day02-pipeline.yml)   | [Blog](https://abdulraheem.hashnode.dev/day-02-building-a-cicd-pipeline-with-github-actions) |
 | 03  | Events and Triggers                           | [day03-events-demo.yml](.github/workflows/day03-jobs-steps.yml)  | [Blog](https://abdulraheem.hashnode.dev/github-actions-events-triggers) |
 | 04  | Jobs Artifacts                                | [day04-artifacts.yml](.github/workflows/day04-artifacts.yml)     | [Blog](https://abdulraheem.hashnode.dev/day-04-job-artifacts-in-github-actions) |
-| ... | …                                             | …                                                                | …         |
+| 05  | Outputs                                       | [day05-outputs.yml](.github/workflows/day05-outputs.yml)         | [Blog](https://abdulraheem.hashnode.dev/day-05-outputs-in-github-actions)       |
 
 👉 Each day is **incremental** — start from Day 01 and move forward.
 
