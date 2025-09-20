@@ -54,6 +54,7 @@ While today’s workflow uses the `github` context, here are other useful contex
 * **`job` & `steps` context** → Track step outcomes inside jobs.
 
 We’ll cover these in the blog post.
+Read Blog Here: [Day06- Contexts in Github Actions](https://github.com/abdulraheem381/github-actions-journey)
 
 
 
