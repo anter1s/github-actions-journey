@@ -1,10 +1,10 @@
 name: Events Demo
 
 on:
-  push:
-    branches:
-      - main
-      - feature/*
+  # push:   # un comment these lines to see demo
+  #   branches:
+  #     - main
+  #     - feature/*
   pull_request:
     types: [opened, edited, closed]
   issues:
