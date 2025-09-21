@@ -1,9 +1,9 @@
 name: Deploy APP
 
 on:
-  push:
-    branches:
-      - main
+  # push:
+  #   branches:   # Un comment these lines to use workflow 
+  #     - main
   workflow_dispatch:
 
 jobs:
