@@ -40,7 +40,8 @@ README.md
 | 03  | Events and Triggers                           | [day03-events-demo.yml](.github/workflows/day03-jobs-steps.yml)  | [Blog](https://abdulraheem.hashnode.dev/github-actions-events-triggers) |
 | 04  | Jobs Artifacts                                | [day04-artifacts.yml](.github/workflows/day04-artifacts.yml)     | [Blog](https://abdulraheem.hashnode.dev/day-04-job-artifacts-in-github-actions) |
 | 05  | Outputs                                       | [day05-outputs.yml](.github/workflows/day05-outputs.yml)         | [Blog](https://abdulraheem.hashnode.dev/day-05-outputs-in-github-actions)       |
-| 05  | Contexts                                      | [day06-contexts.yml](.github/workflows/day06-contexts.yml)       | [Blog](https://abdulraheem.hashnode.dev/day-06-github-actions-contexts-what-they-are-how-to-use-them) |
+| 06  | Contexts                                      | [day06-contexts.yml](.github/workflows/day06-contexts.yml)       | [Blog](https://abdulraheem.hashnode.dev/day-06-github-actions-contexts-what-they-are-how-to-use-them) |
+| 07  | Secrets & Variables                           | [day07-secrets](.github/workflows/day07-secrets-variables.yml)   | [Blog](https://abdulraheem.hashnode.dev/day-07-github-actions-variables-and-secrets-made-simple) |
 
 👉 Each day is **incremental** — start from Day 01 and move forward.
 
