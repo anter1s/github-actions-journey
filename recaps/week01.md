@@ -4,13 +4,13 @@
 Covered everything from basics to secrets, with 7 full blogs.  
 
 ## 📖 Blogs from Week 1
-1. [Day 01 – Introduction to GitHub Actions](h)
-2. [Day 02 – Building a CI Pipeline](https://yourblog.com/day02)
-3. [Day 03 – Events & Triggers](https://yourblog.com/day03)
-4. [Day 04 – Job Artifacts](https://yourblog.com/day04)
-5. [Day 05 – Outputs](https://yourblog.com/day05)
-6. [Day 06 – Contexts](https://yourblog.com/day06)
-7. [Day 07 – Secrets](https://yourblog.com/day07)
+1. [Day 01 – Introduction to GitHub Actions](https://abdulraheem.hashnode.dev/day01-introduction-to-github-actions)
+2. [Day 02 – Building a CI Pipeline](https://abdulraheem.hashnode.dev/day-02-building-a-cicd-pipeline-with-github-actions)
+3. [Day 03 – Events & Triggers](https://abdulraheem.hashnode.dev/github-actions-events-triggers)
+4. [Day 04 – Job Artifacts](https://abdulraheem.hashnode.dev/day-04-job-artifacts-in-github-actions)
+5. [Day 05 – Outputs](https://abdulraheem.hashnode.dev/day-05-outputs-in-github-actions)
+6. [Day 06 – Contexts](https://abdulraheem.hashnode.dev/day-06-github-actions-contexts-what-they-are-how-to-use-them)
+7. [Day 07 – Secrets](https://abdulraheem.hashnode.dev/day-07-github-actions-variables-and-secrets-made-simple)
 
 🔥 And here’s the **Week 1 Recap Blog**:  
 👉 [Read on Hashnode](https://yourblog.com/week01-recap)
