@@ -13,7 +13,7 @@ Covered everything from basics to secrets, with 7 full blogs.
 7. [Day 07 – Secrets](https://abdulraheem.hashnode.dev/day-07-github-actions-variables-and-secrets-made-simple)
 
 🔥 And here’s the **Week 1 Recap Blog**:  
-👉 [Read on Hashnode](https://yourblog.com/week01-recap)
+👉 [Read on Hashnode](https://abdulraheem.hashnode.dev/week-1-recap-my-github-actions-journey)
 
 ---
 
