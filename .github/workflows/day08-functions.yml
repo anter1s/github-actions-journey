@@ -1,0 +1,26 @@
+name: Day08 - Functions Demo
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  functions-demo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Uppercase branch name
+        run: |
+          echo "Uppercase branch name: $(echo ${{ github.ref_name }} | tr '[:lower:]' '[:upper:]')"
+
+      - name: Lowercase repository name
+        run: |
+          echo "Lowercase repo name: $(echo ${{ github.repository }} | tr '[:upper:]' '[:lower:]')"
+
+      - name: Join commit IDs
+        run: |
+          COMMIT_IDS=$(jq -r '[.commits[].id] | join(", ")' "$GITHUB_EVENT_PATH")
+          echo "Joined commit IDs: $COMMIT_IDS"
